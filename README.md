@@ -1,5 +1,3 @@
-# Nome do Projeto
-
 ## Descrição
 
 Este projeto foi desenvolvido para realizar o scraping de dados de sites específicos, processar os dados e carregá-los no Google BigQuery. O projeto utiliza diversas utilidades para manipulação de dados, como o processamento de arquivos Excel, o carregamento de arquivos CSV para o BigQuery e a execução de scripts SQL. Além disso, inclui funcionalidade para fazer scraping de arquivos de páginas web e salvá-los localmente.
